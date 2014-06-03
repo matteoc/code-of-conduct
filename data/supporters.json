@@ -28,6 +28,20 @@
           "email": "dajana@rubyberlin.org"
         }
       ]
+    },
+    {
+      "name": "Elasticsearch UG Berlin",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://www.meetup.com/ElasticSearch-UG-Berlin/",
+      "twitter": "elasticberlin",
+      "contacts": [
+        {
+          "name": "Florian Gilcher",
+          "phone": "+49 172 8122469",
+          "email": "florian.gilcher@asquera.de"
+        }
+      ]
     }
   ],
   "conferences": [
